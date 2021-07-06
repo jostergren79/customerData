@@ -1,0 +1,30 @@
+
+[
+    {
+      "id": 1,
+      "dayTime": "Morning",
+      "guestFirstName": "",
+      "destination": "",
+      "room": "",
+      "closing": ""
+      },
+
+    {
+        "id": 2,
+        "dayTime": "Afternoon",
+        "guestFirstName": "",
+        "destination": "",
+        "room": "",
+        "closing": ""
+      },
+
+    {
+        "id": 3,
+        "dayTime": "Evening",
+        "guestFirstName": "",
+        "destination": "",
+        "room": "",
+        "closing": ""
+      }
+    
+]
